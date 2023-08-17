@@ -13,7 +13,7 @@
 </ul><ul>
 <li>Express</li>
 </ul><ul>
-<li>Node</li>
+<li>MongoDB</li>
 </ul><h2>Setup</h2>
 <hr><p>notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other</p><h5>Steps</h5><ul>
 <li>For Client</li>
